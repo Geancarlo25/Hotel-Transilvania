@@ -1,0 +1,2 @@
+window.alert("BIENVENIDO AL HOTEL TRANSYLVANIA 5 ESTRELLAS * * * * *");
+
